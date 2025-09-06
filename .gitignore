@@ -1,0 +1,12 @@
+# PyInstaller temporary files
+build/
+dist/
+*.spec
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
